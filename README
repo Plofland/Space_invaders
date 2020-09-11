@@ -1,0 +1,8 @@
+This is my Space Invader's side project to help me learn Python. The game is functional but boring. Listed below are a few changes that I'd like to make.
+
+
+TO DO(for a later date when I have time):
+  -Make lives smaller in upper left corner
+  -Create mouse movement inputs for moving the ship left and right
+  -Create mouse click for firing weapon
+  -Allow enemies to fire their weapons
